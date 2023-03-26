@@ -152,7 +152,7 @@ margin: 2px;
 
 <p>
 </p>
-<center><h3 class="padded">User Panel - Welcome, (<?php echo $user['Name']; ?>) </h3>
+<center><h3 class="padded">Project Panel - Welcome, (<?php echo $user['Name']; ?>) </h3>
 <span><small><a href="../../user/logout.php">Disconnect!</a></small></span>
 <hr>
 <?php 
