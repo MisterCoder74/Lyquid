@@ -1,0 +1,16 @@
+[
+    {
+        "id": "PWxMfZB4Nn",
+        "name": "Testproject",
+        "code": "215103C",
+        "client": "FEDRA SPA",
+        "user": "Rossi",
+        "folder": "Testproject",
+        "budget": "500000",
+        "status": "proposal",
+        "coordinator": "Locatelli",
+        "startdate": "2023-03-30",
+        "duedate": "2024-11-30",
+        "progress": "5"
+    }
+]

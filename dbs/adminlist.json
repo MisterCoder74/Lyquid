@@ -1,0 +1,14 @@
+[
+   {
+      "Id":"tn5hAPm9bB",
+      "Name":"Alessandro",
+      "Surname":"Rossi",
+      "Email":"admin@domain.xxx",
+      "Password":"adminaccess",
+      "ActivationKey":"f4459c5842c19223314990adc080d9cd",
+      "Active":true,
+      "Phone": "+39 0651283898",
+      "Location": "Building B",
+      "Role": "Admin"
+   }
+]
